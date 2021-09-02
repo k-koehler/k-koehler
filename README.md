@@ -10,4 +10,6 @@ While you're here take a look at some of my projects:
 - `bayes-text-classifier`: machine learning in javascript?? you gotta check this out
 - `mersenne-hash-table`: you like math? heard of mersenne numbers? go check it out now wtf are you waiting for
 
+_Emojis are for losers_
+
 
