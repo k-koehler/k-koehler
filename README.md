@@ -1,16 +1,13 @@
-### Hi there 👋
+### Why you lookin' at my profile??
 
-<!--
-**k-koehler/k-koehler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's okay. I'm pretty popular.
 
-Here are some ideas to get you started:
+I am a full-stack typescript enthusiast. My goal is spread the holy word of typescript and usher in a new glorious dawn where no-one will ever again google `TypeError: Cannot read property 'xxx' of undefined`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While you're here take a look at some of my projects:
+
+- `kwix`: build object-oriented typescript backends in nodejs
+- `bayes-text-classifier`: machine learning in javascript?? you gotta check this out
+- `mersenne-hash-table`: you like math? heard of mersenne numbers? go check it out now wtf are you waiting for
+
+
