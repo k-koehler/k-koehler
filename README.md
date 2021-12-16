@@ -9,6 +9,8 @@ While you're here take a look at some of my projects:
 - `kwix`: build object-oriented typescript backends in nodejs
 - `bayes-text-classifier`: machine learning in javascript?? you gotta check this out
 - `mersenne-hash-table`: you like math? heard of mersenne numbers? go check it out now wtf are you waiting for
+- `kneo4j`: database driver for Neo4J with some nice features, like automatic schema mapping
+
 
 _Emojis are for losers_
 
