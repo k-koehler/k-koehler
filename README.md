@@ -7,6 +7,7 @@ I'm an experienced senior engineer with 10+ years of experience with most web-de
 While you're here take a look at some of my projects:
 
 - `gguf-tensor-optimizer`: Optimally allocate tensors to your backend devices in `llama.cpp` or `ik_llama.cpp` without worrying about complex `-ot <regex>` arguments
+- `multillama`: serve multiple OpenAI compatible servers at once with a single line of code
 - `bayes-text-classifier`: machine learning in javascript?? you gotta check this out
 - `kwix`: build object-oriented typescript backends in nodejs
 - `kneo4j`: database driver for Neo4J with some nice features, like automatic schema mapping
