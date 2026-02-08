@@ -1,7 +1,3 @@
-### Why you lookin' at my profile??
-
-It's okay. I'm pretty popular.
-
 I'm an experienced senior engineer with 10+ years of experience with most web-dev related technologies (React, React Native, Node, Python, PostgreSQL, MySQL, etc.). My first job was as an AI engineer and I also stay up to date with LLMs and innovations to the transformer architecture!
 
 While you're here take a look at some of my projects:
